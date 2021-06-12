@@ -50,3 +50,6 @@ mystr = 'hello gringo'
 
 print('sub str', mystr[-1])
 print(mystr.count("e"))
+
+# multply a string 
+print('hello' * 7)
