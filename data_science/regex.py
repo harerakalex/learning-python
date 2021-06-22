@@ -4,7 +4,7 @@ import re
 text = """Amy is 5 years old, and her sister Mary is 2 years old. 
     Ruth and Peter, their parents, have 3 kids."""
 
-pattern = re.compile(r'[A-Z]([a-z]+|\.)')
+pattern = re.findall('[A-Z]([a-z]+|\.)')
 
 matches = pattern.finditer(text)
 

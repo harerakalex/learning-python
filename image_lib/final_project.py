@@ -92,3 +92,5 @@ def search(name):
 
             else:
                 display(make_contact_sheet(file['faces']))
+
+search('Christopher')

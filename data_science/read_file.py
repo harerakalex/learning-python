@@ -25,10 +25,22 @@ def read_file():
 
 def logs():
     with open (f'{path}/logdata.txt', 'r') as file:
-        logs = file.readlines()
+        logdata = file.read()
     
-    print(type(logs[0]))
+    # YOUR CODE HERE
+    pattern="""(?P<host>[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)
+                    (\ - \ )
+                    (?P<user_name>(\w*)(\S))
+                    (\  \S)
+                    (?P<time>\d+\S\w*\S\d+\S\d+\S\d+\S\d+\s\S\d+)
+                    (\S\s\S)
+                    (?P<request>\w*\s\S*\s\w*\S\d.\d*)
+              """
+    data=[]
+    for item in re.finditer(pattern,logdata,re.VERBOSE): 
+        data.append(item.groupdict())
+    return data  
 
-# print('Found B grade:', len(grades()))
+print('Found B grade:', len(grades()))
 print('File Array', read_file()[0])
 print(logs())
