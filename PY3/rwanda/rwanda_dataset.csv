@@ -2988,7 +2988,6 @@ Prov_id,Province,District,Sector,Cell,Village
 2,South,Huye,Tumba,Cyarwa,Icyiri
 2,South,Huye,Tumba,Cyarwa,Kabeza
 2,South,Huye,Tumba,Cyarwa,Kigarama
-2,South,Huye,Tumba,Cyarwa,Kigarama
 2,South,Huye,Tumba,Cyarwa,Taba
 2,South,Huye,Tumba,Cyimana,Abizerwa
 2,South,Huye,Tumba,Cyimana,Akamuhoza
@@ -5495,7 +5494,6 @@ Prov_id,Province,District,Sector,Cell,Village
 3,West,Rutsiro,Murunda,Rugeyo,Kabeza
 3,West,Rutsiro,Murunda,Rugeyo,Kamabuye
 3,West,Rutsiro,Murunda,Rugeyo,Kamusambi
-3,West,Rutsiro,Musasa,Gabiro,Murama
 3,West,Rutsiro,Musasa,Gabiro,Nyarugenge
 3,West,Rutsiro,Musasa,Gabiro,Rugarambiro
 3,West,Rutsiro,Musasa,Gabiro,Rwagatoki
@@ -6603,7 +6601,6 @@ Prov_id,Province,District,Sector,Cell,Village
 3,West,Nyabihu,Rugera,Tyazo,Kiyanza
 3,West,Nyabihu,Rugera,Tyazo,Mucaca
 3,West,Nyabihu,Rugera,Tyazo,Nyakiriba
-3,West,Nyabihu,Rugera,Tyazo,Nyakiriba
 3,West,Nyabihu,Rurembo,Gahondo,Bihira
 3,West,Nyabihu,Rurembo,Gahondo,Gahoko
 3,West,Nyabihu,Rurembo,Gahondo,Gitega
@@ -6977,7 +6974,6 @@ Prov_id,Province,District,Sector,Cell,Village
 3,West,Ngororero,Muhanda,Mashya,Byerezo
 3,West,Ngororero,Muhanda,Mashya,Kagano
 3,West,Ngororero,Muhanda,Mashya,Karuhindura
-3,West,Ngororero,Muhanda,Mashya,Kazuba
 3,West,Ngororero,Muhanda,Mashya,Kazuba
 3,West,Ngororero,Muhanda,Mashya,Rubaya
 3,West,Ngororero,Muhanda,Nganzo,Gisebeya
@@ -8721,7 +8717,6 @@ Prov_id,Province,District,Sector,Cell,Village
 4,North,Rulindo,Ntarabana,Mahaza,Karera
 4,North,Rulindo,Ntarabana,Mahaza,Kayenzi
 4,North,Rulindo,Ntarabana,Mahaza,Kibeho
-4,North,Rulindo,Ntarabana,Mahaza,Rusekabuye
 4,North,Rulindo,Ntarabana,Mahaza,Rusekabuye
 4,North,Rulindo,Rukozo,Buraro,Kabgayi
 4,North,Rulindo,Rukozo,Buraro,Kabingo
@@ -12250,7 +12245,6 @@ Prov_id,Province,District,Sector,Cell,Village
 5,East,Gatsibo,Kabarore,Kabeza,Gatoki
 5,East,Gatsibo,Kabarore,Kabeza,Kabeza
 5,East,Gatsibo,Kabarore,Kabeza,Mishenyi
-5,East,Gatsibo,Kabarore,Kabeza,Gatoki
 5,East,Gatsibo,Kabarore,Karenge,Karenge
 5,East,Gatsibo,Kabarore,Karenge,Mutarama
 5,East,Gatsibo,Kabarore,Karenge,Nyarubuye
@@ -12793,7 +12787,6 @@ Prov_id,Province,District,Sector,Cell,Village
 5,East,Kayonza,Kabare,Kirehe,Rwagatera
 5,East,Kayonza,Kabare,Rubimba,Bara
 5,East,Kayonza,Kabare,Rubimba,Buhabwa
-5,East,Kayonza,Kabare,Rubimba,Bara
 5,East,Kayonza,Kabare,Rubimba,Kabeza
 5,East,Kayonza,Kabare,Rubimba,Kamuhabura
 5,East,Kayonza,Kabare,Rubimba,Nyarusange
